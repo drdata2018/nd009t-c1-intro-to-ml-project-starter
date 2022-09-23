@@ -33,13 +33,16 @@ TODO: do more data analysis, and research in deep with  hyperparameters
 
 TODO: Replace the image below with your own.
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score.png]![model_train_score](https://user-images.githubusercontent.com/37417270/191997522-e1ce64e7-95ed-4063-9514-6e8fa64d11c8.png)
+
+
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 TODO: Replace the image below with your own.
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png]![model_test_score](https://user-images.githubusercontent.com/37417270/191997610-9ea8ce2a-5741-4796-b490-e9ffca972fbd.png)
+
 
 ## Summary
-TODO: Add your explanation
+TODO : i believe that i have used my own skills with the course to apply autogluon  for prediction
