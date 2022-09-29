@@ -29,6 +29,8 @@ TODO: do more data analysis, and research in deep with  hyperparameters
 |add_features|time_limit = 600|presets='best_quality'|default|0.77621|
 |hpo|time_limit = 600|presets='best_quality'|scheduler: local, searcher: auto|0.47648|
 
+![report](https://user-images.githubusercontent.com/37417270/192976831-ff334220-1efc-4ac0-bb70-43f52984a46c.png)
+
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
 TODO: Replace the image below with your own.
