@@ -50,6 +50,6 @@ TODO: Replace the image below with your own.
 
 ## Summary
 TODO : 
-in this project I was able to apply all the concepts that were covered in this unit of the course, by using this skills I was able to develop a machine learning regression model by using the autogluon framework, at the end the results were good because the kaggle score of my model was close to the professional developers with years of experince.
+in this project I was able to apply all the concepts that were covered in this unit of the course, by using this skills I was able to develop a machine learning regression model by using the autogluon framework,the best model for the metric root_mean_squared_error in the training dataset wasn't the best model for the test data in the kaggle competition. That is because we trained a better and more general model when we tuned the hyperparameters and add the validation dataset to the AutoGluon framework at the end the results were good because the kaggle score of my model was close to the professional developers with years of experince.
 
 
