@@ -22,20 +22,20 @@ TODO: some configurations were usefull but others harmed the model performance
 ### If you were given more time with this dataset, where do you think you would spend more time?
 TODO: do more data analysis, and research in deep with  hyperparameters
 
-### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
+### Create a table with the models you ![Untitled](https://user-images.githubusercontent.com/37417270/193337890-ab3f37ea-28d5-43f5-ad8f-8638822e07c5.png)
+ran, the hyperparameters modified, and the kaggle score.
 |model|timelimit|presets|kwargs|score|
 |--|--|--|--|--|
 |initial|time_limit = 600|presets='best_quality'|default|1.78803|
 |add_features|time_limit = 600|presets='best_quality'|default|0.77621|
 |hpo|time_limit = 600|presets='best_quality'|scheduler: local, searcher: auto|0.47648|
 
-![report](https://user-images.githubusercontent.com/37417270/192976831-ff334220-1efc-4ac0-bb70-43f52984a46c.png)
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
 TODO: Replace the image below with your own.
+![index](https://user-images.githubusercontent.com/37417270/193337572-a24680f1-13b0-49d5-a8c7-68655549f673.png)
 
-![model_train_score.png]![model_train_score](https://user-images.githubusercontent.com/37417270/191997522-e1ce64e7-95ed-4063-9514-6e8fa64d11c8.png)
 
 
 
@@ -43,7 +43,7 @@ TODO: Replace the image below with your own.
 
 TODO: Replace the image below with your own.
 
-![model_test_score.png]![model_test_score](https://user-images.githubusercontent.com/37417270/191997610-9ea8ce2a-5741-4796-b490-e9ffca972fbd.png)
+![2](https://user-images.githubusercontent.com/37417270/193337612-19d2cbb3-8de2-476f-a165-23071f325c6e.png)
 
 
 ## Summary
