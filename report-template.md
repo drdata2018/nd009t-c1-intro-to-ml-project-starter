@@ -25,8 +25,8 @@ TODO: do more data analysis, and research in deep with  hyperparameters
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 |model|hpo1|hpo2|hpo3|using_val_data|score|
 |--|--|--|--|--|--|
-|initial|defaults|defaults|False|1.758410|
-|add_features|defaults|defaults|False|1.758410|
+|initial|defaults|defaults|defaults|False|1.758410|
+|add_features|defaults|defaults|defaults|False|0.737108|
 |hpo|num_epocs=10|num_boost_round=100|num_trials=5 	|True 	|0.474920|
 |hpo2|num_epocs=50|num_boost_round=200|num_trials=10 	|True 	|1.317800|
 
