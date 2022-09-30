@@ -22,14 +22,14 @@ TODO: some configurations were usefull but others harmed the model performance
 ### If you were given more time with this dataset, where do you think you would spend more time?
 TODO: do more data analysis, and research in deep with  hyperparameters
 
-### Create a table with the models you ![Untitled](https://user-images.githubusercontent.com/37417270/193337890-ab3f37ea-28d5-43f5-ad8f-8638822e07c5.png)
-ran, the hyperparameters modified, and the kaggle score.
-|model|timelimit|presets|kwargs|score|
-|--|--|--|--|--|
+### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
+|model|hpo1|hpo2|hpo3|hpo4|using_val_data|score|
+|--|--|--|--|--|--|--|
 |initial|time_limit = 600|presets='best_quality'|default|1.78803|
 |add_features|time_limit = 600|presets='best_quality'|default|0.77621|
 |hpo|time_limit = 600|presets='best_quality'|scheduler: local, searcher: auto|0.47648|
-
+|hpo2|time_limit = 600|presets='best_quality'|scheduler: local, searcher: auto|0.47648|
+![Untitled](https://user-images.githubusercontent.com/37417270/193337890-ab3f37ea-28d5-43f5-ad8f-8638822e07c5.png)
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
